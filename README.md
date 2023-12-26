@@ -21,7 +21,7 @@ This project provides a simple Fortran program that allows you to calculate an a
 ## Usage
 
 To use this Fortran program, follow these steps:
-
+t
 1. Clone the repository to your local machine:
 
    ```bash
